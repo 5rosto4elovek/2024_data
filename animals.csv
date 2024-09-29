@@ -1,4 +1,4 @@
-| Animal | Weight | Height |
-| ------ | ------ | ------ |
-| Content Cell1 | Content Cell2 | Content Cell2 |
-| Content Cell3 | Content Cell4 | Content Cell2 |
+| Animal | Weight, kg | Height, cm |
+| ------ | ---------- | ---------- |
+| Moose  | 400        | 180        |
+| Boar   | 80         | 60         |
